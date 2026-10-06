@@ -1,0 +1,83 @@
+{
+    "total_records_analyzed": 1099,
+    "column_completeness": {
+        "source": {
+            "present_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "name_or_title": {
+            "present_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "category": {
+            "present_count": 0,
+            "missing_count": 1099,
+            "completeness_pct": 0.0
+        },
+        "price": {
+            "present_count": 999,
+            "missing_count": 100,
+            "completeness_pct": 90.9
+        },
+        "rating": {
+            "present_count": 999,
+            "missing_count": 100,
+            "completeness_pct": 90.9
+        },
+        "author": {
+            "present_count": 100,
+            "missing_count": 999,
+            "completeness_pct": 9.1
+        },
+        "tags": {
+            "present_count": 97,
+            "missing_count": 1002,
+            "completeness_pct": 8.83
+        },
+        "source_url": {
+            "present_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        },
+        "scraped_at": {
+            "present_count": 1099,
+            "missing_count": 0,
+            "completeness_pct": 100.0
+        }
+    },
+    "price_analytics": {
+        "total_items_with_price": 999,
+        "min_price": 10.0,
+        "max_price": 59.99,
+        "mean_price": 35.07,
+        "median_price": 36.0
+    },
+    "rating_distribution": {
+        "1_star": 226,
+        "2_star": 196,
+        "3_star": 203,
+        "4_star": 179,
+        "5_star": 195
+    },
+    "top_authors": {
+        "Albert Einstein": 10,
+        "J.K. Rowling": 9,
+        "Marilyn Monroe": 7,
+        "Dr. Seuss": 6,
+        "Mark Twain": 6
+    },
+    "top_tags": {
+        "love": 14,
+        "inspirational": 13,
+        "life": 13,
+        "humor": 12,
+        "books": 11,
+        "reading": 7,
+        "friendship": 5,
+        "friends": 4,
+        "truth": 4,
+        "simile": 3
+    }
+}

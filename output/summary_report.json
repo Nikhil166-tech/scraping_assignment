@@ -1,0 +1,35 @@
+{
+    "collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "cleaned_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "rejected_by_reason": {},
+    "duplicates_detected": 1,
+    "final_record_count": 1099,
+    "duration_seconds": 132.15,
+    "execution_start": "2026-10-06T09:03:05Z",
+    "execution_end": "2026-10-06T09:05:18Z",
+    "reconciliation_passed": true,
+    "detailed_sources": {
+        "Books to Scrape": {
+            "records_scraped": 1000,
+            "records_cleaned": 1000,
+            "records_rejected": 0,
+            "records_duplicate": 1,
+            "records_final": 999,
+            "rejected_by_reason": {}
+        },
+        "Quotes to Scrape": {
+            "records_scraped": 100,
+            "records_cleaned": 100,
+            "records_rejected": 0,
+            "records_duplicate": 0,
+            "records_final": 100,
+            "rejected_by_reason": {}
+        }
+    }
+}

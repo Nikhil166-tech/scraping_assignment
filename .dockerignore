@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.env
+.git/
+.gitignore
+output/*.csv
+output/*.json
+output/*.db
+logs/*.log
